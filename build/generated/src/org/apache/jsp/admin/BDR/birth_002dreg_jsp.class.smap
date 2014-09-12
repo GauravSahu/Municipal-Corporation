@@ -1,0 +1,15 @@
+SMAP
+birth_002dreg_jsp.java
+JSP
+*S JSP
+*F
++ 0 birth-reg.jsp
+admin/BDR/birth-reg.jsp
+*L
+5,32:57
+36,2:89
+39,21:92
+59,2:113
+62,54:116
+115,30:170
+*E
