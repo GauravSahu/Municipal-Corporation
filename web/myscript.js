@@ -105,7 +105,7 @@ $(document).ready(function(){
               function()
 			  {
                              document.location='./BirthCertificate?child_id='+$("#child_id").val();
-                                // $().redirect('http://localhost:8084/Final/BirthCertificate', {'child_id':$("#child_id").val()}, 'post');
+                                
 			   });
 			  
 			});
