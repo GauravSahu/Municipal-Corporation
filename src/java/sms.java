@@ -160,7 +160,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>Dob:"+Dob+"<br>Status:"+Status+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
                                  break;
                                 case DCS:
@@ -176,7 +176,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>DoD:"+DoD+"<br>Status:"+Status+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
@@ -195,7 +195,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>DoD:"+DoD+"<br>Amount:"+Amount+"<br>Status:"+Status+"<br>Fin year:"+Fin_year+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
@@ -214,7 +214,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>DoD:"+DoD+"<br>Amount:"+Amount+"<br>Status:"+Status+"<br>Fin year:"+Fin_year+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
@@ -250,7 +250,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>L_fee:"+l_fee+"<br>Status:"+Status+"<br>last date:"+last_date+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
@@ -266,7 +266,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>L Exp date:"+l_exp_date+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
@@ -285,7 +285,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>Status:"+Status+"<br>Deptt:"+deptt+"<br>Section:"+section+"<br>DoR:"+DoR+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
@@ -304,7 +304,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>Compl date:"+comp_date+"<br>Status:"+Status+"<br>Due Date:"+due_date+"<br>Resp off:"+resp_off+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
@@ -323,7 +323,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>Compl date:"+comp_date+"<br>Status:"+Status+"<br>Due Date:"+due_date+"<br>Resp off:"+resp_off+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
@@ -342,7 +342,7 @@ public class sms extends HttpServlet {
                                          out.println("ULB:"+Ulb+"<br>Name:"+Name+"<br>Compl date:"+comp_date+"<br>Status:"+Status+"<br>Due Date:"+due_date+"<br>Resp off:"+resp_off+"<br>"+Auth);
                                      }
                                      else{
-                                        out.println("Invalid");
+                                        out.println("Invalid Request");
                                      }
 
                                 break;
